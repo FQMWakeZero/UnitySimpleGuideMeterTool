@@ -17,5 +17,10 @@ How to use is described in detail in the release
 
 使用方式在发布里面有详细描述
 
+## tools
+After importing, click "Tools/导表菜单/导出" in the Unity menu bar. If you encounter errors, please post them in the question
+
+导入后点击Unity菜单栏“Tools/导表菜单/导出”即可，如果你遇到错误，请发布到问题中
+
 ## Plugin
 [GitHub Pages ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
