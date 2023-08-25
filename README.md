@@ -16,3 +16,6 @@ How to use is described in detail in the release
 如果你有什么建议可以提交分支以及合并请求。
 
 使用方式在发布里面有详细描述
+
+## Plugin
+[GitHub Pages ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
